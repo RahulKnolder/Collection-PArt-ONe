@@ -16,6 +16,7 @@ public class LinkedListShuffle {
 
         System.out.println("Original LinkedList: " + list);
 
+        //shuffle method in collection
         Collections.shuffle(list);
 
         System.out.println("Shuffled LinkedList: " + list);
